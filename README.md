@@ -1,4 +1,4 @@
-# Covid_ChatBot
+# CovidChatBot
 <!DOCTYPE html>
 <html>
 <head>
@@ -57,7 +57,7 @@
 
         <h2>Ask me anything:-)</h2>
 
-        <iframe src='https://webchat.botframework.com/embed/botforyou-bot?s=fUuO_o7JOYE.aCePkg8iE4LhIXOYul8_Os9p0ladN6RMSvjKm6pJjlQ' style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
+        <iframe src='https://webchat.botframework.com/embed/covidchatbot-abbc-bot?s=f5WbRf93DPg.s09B3_CWbc1EMyY1Quz2qnsBIOZ9p2Vmgsg3-O9adtU'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
       
     </div>
         
