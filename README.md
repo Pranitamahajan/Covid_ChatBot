@@ -57,7 +57,7 @@
 
         <h2>Ask me anything:-)</h2>
 
-        <iframe src='https://webchat.botframework.com/embed/covidchatbot-abbc-bot?s=f5WbRf93DPg.s09B3_CWbc1EMyY1Quz2qnsBIOZ9p2Vmgsg3-O9adtU'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
+        <iframe src='https://webchat.botframework.com/embed/covidchatbot-abbcc-bot?s=raU66RR_0wM.12c2bH137-uuUxkk-tfytCXr5GWWwizitXFtrfiqmBk'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
       
     </div>
         
